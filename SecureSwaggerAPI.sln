@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureSwaggerAPI", "SecureSwaggerAPI\SecureSwaggerAPI.csproj", "{821C6246-01E9-47EB-99EA-473C11C2F044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821C6246-01E9-47EB-99EA-473C11C2F044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821C6246-01E9-47EB-99EA-473C11C2F044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821C6246-01E9-47EB-99EA-473C11C2F044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821C6246-01E9-47EB-99EA-473C11C2F044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B158B5ED-220F-43BE-A00E-A528B0E9DC37}
+	EndGlobalSection
+EndGlobal
